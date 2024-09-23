@@ -1,0 +1,14 @@
+$bodyColor: grey;
+$divColor: red;
+
+body {
+    background: red;
+}
+
+.main {
+    background-color: $divColor;
+}
+
+h1 {
+    color: $divColor;
+}
